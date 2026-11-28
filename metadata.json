@@ -1,0 +1,6 @@
+{
+  "name": "ExamNotes",
+  "description": "ExamNotes — structured subject-wise revision notes with auto-numbered headings, formulas, and instant chapter and subject index pages for exam prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExamNotes</string>
+    <string name="offline_vault_badge">Offline Vault · Local Files</string>
+    <string name="search_subjects_placeholder">Search subjects, chapters, headings…</string>
+    <string name="new_subject">New Subject</string>
+    <string name="empty_library_title">Your Exam Revision Vault</string>
+    <string name="empty_library_subtitle">Create subject-wise chapters with auto-numbered H1, H2, H3 headings, crisp definitions, and formula cards — stored 100% offline on your device.</string>
+    <string name="tab_chapters">Chapters</string>
+    <string name="tab_subject_index">Subject Index</string>
+    <string name="tab_chapter_notes">Chapter Notes</string>
+    <string name="tab_chapter_index">Chapter Index</string>
+    <string name="add_chapter">Add Chapter</string>
+    <string name="study_mode_on">Revision Mode</string>
+    <string name="expand_all">Expand All</string>
+    <string name="collapse_all">Collapse All</string>
+    <string name="export_markdown">Export Markdown</string>
+    <string name="copied_formula">Formula copied to clipboard</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_expand_toggle">Toggle expand or collapse</string>
+    <string name="cd_copy_formula">Copy formula</string>
+    <string name="cd_more_actions">More actions</string>
+    <string name="cd_status_toggle">Toggle mastery status</string>
+</resources>
